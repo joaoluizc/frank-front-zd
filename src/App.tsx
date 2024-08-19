@@ -1,10 +1,10 @@
 import './App.css'
-import { Chat } from './components/component/chat'
+import { MainScreen } from './main-screen'
 
 function App() {
 
   return (
-    <Chat />
+    <MainScreen />
   )
 }
 
